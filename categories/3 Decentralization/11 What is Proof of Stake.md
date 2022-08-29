@@ -1,4 +1,5 @@
 Proof of Stake consists of a network of validators.
+Proof-of-stake is a cryptocurrency consensus mechanism for processing transactions and creating new blocks in a blockchain. A consensus mechanism is a method for validating entries into a distributed database and keeping the database secure. In the case of cryptocurrency, the database is called a blockchain—so the consensus mechanism secures the blockchain. Proof of Stake was invented by Sunny King and was implimented in BTC Clone called PPCOIN, later name changed to Peercoin.
 
 Validators are individuals which have deposited, or staked, cryptocurrency
 and run a specifically designed program to process transactions.
@@ -8,10 +9,10 @@ offline with financial penalties.
 Each network which relies on Proof of Stake has their own set of requirements
 for validators. These requirements can include:
 
--   A minimum stake (2000 AVAX, 32 ETH, ~$50,000 USD)
+-   A minimum stake (2000 AVAX, 32 ETH, ~$50,000 USD, 20 PPC)
 -   A minimum uptime (80% on Avalanche)
 -   1 to 2 TB SSD Storage
--   16 to 128 GB of RAM
+-   4 to 128 GB of RAM
 
 When a Block of transactions is full, the network selects a validator to the
 re-execute the transactions and validate the Block so it can be added to the
